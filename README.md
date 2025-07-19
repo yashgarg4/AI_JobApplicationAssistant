@@ -97,10 +97,3 @@ The application will open in a new tab in your web browser.
 2.  Paste the full job description into the text area.
 3.  Click the "✨ Get Application Assistance" button.
 4.  Wait for the AI crew to work their magic. The results will be displayed on the page.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
